@@ -1,0 +1,24 @@
+Depot:
+New York, NY
+Description:
+Iphones
+Address:
+5th Av
+Manhatan
+
+Depot:
+Boston, MA
+Description:
+Books
+Address:
+1 Main Street
+Downtown
+
+Depot:
+Luxor, Egypt
+Description:
+Shoes
+Address:
+Anywhere
+Anytown
+
