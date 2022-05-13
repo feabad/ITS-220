@@ -1,0 +1,26 @@
+Category: Computers & Technology
+Description: Head First Programming
+Author: Paul Barry & David Griffiths
+Edition: First
+Rating: Excellent
+
+Category: Biographies
+Description: Becoming
+Author: Michelle Obama
+Edition: First
+Rating: Excellent
+
+Category: Literature & Fiction
+Description: The Little Prince 
+Author: Antoine de Saint-Exupéry
+Edition: 2th
+Rating: Excellent
+
+Category: Computers & Technology
+Description: Python Crash Course
+Author: Eric Matthes
+Edition: 2nd Edition
+Rating: Excellent
+
+
+
