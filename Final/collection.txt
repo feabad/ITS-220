@@ -1,0 +1,6 @@
+Category: Computers & Technology
+Description: Python Crash Course
+Author: Eric Matthes
+Edition: 2nd Edition
+Rating: Excellent
+

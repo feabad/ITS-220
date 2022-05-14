@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name score age
 Johnny 8.65 22	
 Juan 9.12 24
@@ -5,4 +6,13 @@ Joseph 8.45 26
 Stacey 7.81 23
 Aideen 8.05 25
 Zack 7.21 27
+=======
+name score age
+Johnny 8.65 22	
+Juan 9.12 24
+Joseph 8.45 26
+Stacey 7.81 23
+Aideen 8.05 25
+Zack 7.21 27
+>>>>>>> 8162d74a42f4593e60b9831a9f4ee35d5cf1f5c9
 Aaron 8.31 30
