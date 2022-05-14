@@ -1,7 +1,11 @@
 from tkinter import *
 
 def save_data():
+<<<<<<< HEAD
         fileD = open("deliveries.txt")
+=======
+        fileD = open("deliveries.txt", "a")
+>>>>>>> bb58f6c8d393eb254cc4e91ff496e89b82b5a455
         fileD.write("Depot:\n")
         fileD.write("%s\n" % depot.get())
         fileD.write("Description:\n")
