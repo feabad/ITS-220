@@ -1,1 +1,1 @@
-# ITS-220 projects In class
+# ITS-220 Database Management System projects In class
